@@ -66,3 +66,18 @@ For more options, run:
 ```bash
 python3 sw/distributed_collect.py --help
 ```
+## Citation
+
+If you use CXL-Tracer in your research, please cite our IEEE Computer Architecture Letters (CAL) paper:
+
+```bibtex
+@article{vanavasam2026cxltracer,
+  author={Vanavasam, Srikar and Cruz, Austin Antony and Kim, Nam Sung},
+  journal={IEEE Computer Architecture Letters}, 
+  title={CXL-Tracer: Accurate, Full-System Memory Tracing on Commercial Hardware via CXL Memory}, 
+  year={2026}
+}
+```
+## Support
+
+For any questions about CXL-Tracer, please email [srikarv2@illinois.edu](mailto:srikarv2@illinois.edu).
