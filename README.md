@@ -75,8 +75,12 @@ If you use CXL-Tracer in your research, please cite our IEEE Computer Architectu
   author={Vanavasam, Srikar and Cruz, Austin Antony and Kim, Nam Sung},
   journal={IEEE Computer Architecture Letters}, 
   title={CXL-Tracer: Accurate, Full-System Memory Tracing on Commercial Hardware via CXL Memory}, 
-  year={2026}
-}
+  year={2026},
+  volume={25},
+  number={1},
+  pages={114-117},
+  doi={10.1109/LCA.2026.3673181}}
+
 ```
 ## Support
 
